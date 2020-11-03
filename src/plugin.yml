@@ -1,0 +1,11 @@
+main: me.TheRealPolpy.SwapPlugin.Main
+name: SwapPlugin
+version: 1.0.2
+author: TheRealPolpy
+commands:
+  sp:
+    description: i dont know says something i guess
+  givemypos:
+    description: Teleports you to 420 70 696
+  gamestart:
+    description: Starts game
